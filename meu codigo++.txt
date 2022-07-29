@@ -1,1 +1,3 @@
-Olá, aqui vai o meu segundo teste no Git
+Olá, aqui vai o meu segundo teste no Git. 
+
+Vou editar agora, para mais um teste.
